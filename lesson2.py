@@ -20,3 +20,7 @@ print("done by = " + done_by)
 print("submitted & reviewed by = " + submitted_reviewed_by)
 print("approved by = " + approved_by)
 print("certificate processed by = " + certificate_processed_by)
+home = "Dhakuria"
+pincode = "700031"
+print("Where is house ? = " + home)
+print("what is the pincode ? = " + pincode)
