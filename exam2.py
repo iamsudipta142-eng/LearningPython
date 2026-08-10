@@ -1,0 +1,7 @@
+full_name = input("full name")
+office_location = input("office location")
+role = input("role")
+print("Full Name : " + full_name)
+print("Office Location : " + office_location)
+print("Role : " + role)
+print("Welcome")
