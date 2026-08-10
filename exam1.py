@@ -1,0 +1,6 @@
+certificate_no = input ("certificate no")
+client_name = input("client name")
+auditor_name = input("auditor name")
+print("Certificate no : " + certificate_no)
+print("Client Name : " + client_name)
+print("Auditor Name : " + auditor_name)
