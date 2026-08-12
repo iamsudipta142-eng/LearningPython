@@ -15,3 +15,18 @@ count = 1
 for standard in standards:
     print(str(count) + "." + standard)
     count = count + 1
+books = ["the delhi directive" ,
+         "the alchemist",
+         "the richest man in babylon"]
+count = 1
+for book in books:
+    print(str(count) + "." + book)
+    count = count+1
+client_list = ["Red cow" ,
+               "New Tea garden" ,
+               "Chemshel Private Limited" ,
+               "Met Alloy Corporation"]
+count = 1
+for client in client_list:
+    print(str(count) + "." + client)
+    count = count+1
