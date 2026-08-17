@@ -1,3 +1,4 @@
-two_numbers = input("two numbers")
-three_numbers = input("three numbers")
-print(str(two_numbers)) + str((three_numbers))
+first_number = int(input("first number: "))
+second_number = int(input("second number: "))
+total = first_number + second_number
+print("total : " + str(total))
