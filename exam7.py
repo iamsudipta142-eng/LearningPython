@@ -1,0 +1,6 @@
+office_number = input("office number")
+total_reports = input("total reports")
+pending = input("pending")
+print("office number : " + (str(office_number)))
+print("total reports : " + (str(total_reports)))
+print("pending : " + str(pending))
